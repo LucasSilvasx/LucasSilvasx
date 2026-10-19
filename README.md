@@ -19,7 +19,7 @@
 
 ## 👨‍💻 Sobre mim
 
-- 📱 Desenvolvedor de Apps Android para **maquininhas inteligentes (SmartPOS)** na **B2 Sistemas**
+- 📱 Desenvolvedor de Apps Android para **maquininhas (SmartPOS)**
 - 🎓 Formado em **ADS** • Cursando **Engenharia de Software**
 
 ---
