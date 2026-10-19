@@ -20,7 +20,9 @@
 ## 👨‍💻 Sobre mim
 
 - 📱 Desenvolvedor de Apps Android para **maquininhas (SmartPOS)**
-- 🎓 Formado em **ADS** • Cursando **Engenharia de Software**
+- 🔧 Backend em **C#/.NET** conectando banco Firebird
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas (ADS)**
+- 📚 Cursando **Engenharia de Software**
 
 ---
 
