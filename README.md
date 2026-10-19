@@ -60,7 +60,7 @@
 
 ---
 
-## 📫 Vamos conversar?
+## 📫 Me siga!
 
 <p>
   <a href="https://www.linkedin.com/in/lucasgabrielcsilva" target="_blank">
