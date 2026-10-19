@@ -62,9 +62,15 @@
 
 ## 📫 Vamos conversar?
 
-<p> <a href="https://www.linkedin.com/in/lucasgabrielcsilva" target="_blank"> 
-    <img src="https://img.shields.io/badge/LUCAS%20G.%20SILVA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Lucas G. Silva" /> </a> 
-    <a href="https://github.com/LucasSilvasx" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> 
-/p>
-<p align="center"> <i>"Código bom é aquele que outra pessoa entende sem precisar te perguntar."
-</i> </p>
+<p>
+  <a href="https://www.linkedin.com/in/lucasgabrielcsilva" target="_blank">
+    <img src="https://img.shields.io/badge/LUCAS%20G.%20SILVA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Lucas G. Silva" />
+  </a>
+  <a href="https://github.com/LucasSilvasx" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <i>“A simplicidade é pré-requisito para a confiabilidade.” — Edsger Dijkstra</i>
+</p>
