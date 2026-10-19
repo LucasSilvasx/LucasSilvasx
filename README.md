@@ -24,11 +24,9 @@
 
 ## 👨‍💻 Sobre mim
 
-- 📱 Desenvolvo aplicativos Android para **maquininhas inteligentes (SmartPOS)** na **B2 Sistemas**
-- 🔧 Trabalho também com **backend em C#/.NET** conectado a banco **Firebird**
-- 🎓 Formado em **Análise e Desenvolvimento de Sistemas (ADS)**
-- 🌱 Estudando **Kotlin Multiplatform** e **Supabase**
-- 📍 Tangará da Serra - MT, Brasil 🇧🇷
+- 📱 Desenvolvedor de Apps Android para **maquininhas inteligentes (SmartPOS)** na **B2 Sistemas**
+- 🎓 Formado em **ADS** • Cursando **Engenharia de Software**
+- 🌱 Estudando **Kotlin**
 
 ---
 
@@ -40,7 +38,6 @@
 <p>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
   <img src="https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Multiplatform" />
 </p>
 
@@ -54,6 +51,7 @@
 
 ### 🧰 Ferramentas
 <p>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
@@ -62,45 +60,10 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<!--
-  Essas imagens são geradas automaticamente pelo projeto github-readme-stats.
-  "theme=tokyonight" é o tema de cores. Outros: dark, radical, merko, gruvbox, dracula.
-  Obs.: só aparecem repositórios públicos e contribuições visíveis.
--->
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LucasSilvasx&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSilvasx&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-</p>
-
----
-
-## 🚀 Projetos em destaque
-
-<!--
-  Quando quiser mostrar um repositório aqui, use o cartão abaixo.
-  Troque "repo=" pelo nome do repositório. Exemplo pronto para o clickOrcamento:
--->
-<p>
-  <a href="https://github.com/LucasSilvasx/clickOrcamento">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasSilvasx&repo=clickOrcamento&theme=tokyonight&hide_border=true" alt="clickOrcamento" />
-  </a>
-</p>
-
----
-
 ## 📫 Vamos conversar?
 
-<p>
-  <a href="https://www.linkedin.com/in/lucasgabrielcsilva" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/LucasSilvasx" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<p align="center">
-  <i>"Código bom é aquele que outra pessoa entende sem precisar te perguntar."</i>
-</p>
+<p> <a href="https://www.linkedin.com/in/lucasgabrielcsilva" target="_blank"> 
+    <img src="https://img.shields.io/badge/LUCAS%20G.%20SILVA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Lucas G. Silva" /> </a> 
+    <a href="https://github.com/LucasSilvasx" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> 
+/p>
+<p align="center"> <i>"Código bom é aquele que outra pessoa entende sem precisar te perguntar."</i> </p>
