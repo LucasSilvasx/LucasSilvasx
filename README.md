@@ -15,18 +15,12 @@
   <b>Desenvolvedor Android</b> • Kotlin • Jetpack Compose • .NET
 </p>
 
-<p align="center">
-  <!-- Contador de visitas: troque "LucasSilvasx" se mudar de usuário -->
-  <img src="https://komarev.com/ghpvc/?username=LucasSilvasx&label=Visitas&color=7F52FF&style=flat-square" alt="Visitas no perfil" />
-</p>
-
 ---
 
 ## 👨‍💻 Sobre mim
 
 - 📱 Desenvolvedor de Apps Android para **maquininhas inteligentes (SmartPOS)** na **B2 Sistemas**
 - 🎓 Formado em **ADS** • Cursando **Engenharia de Software**
-- 🌱 Estudando **Kotlin**
 
 ---
 
